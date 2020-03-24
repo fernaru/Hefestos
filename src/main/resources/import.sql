@@ -1,0 +1,1 @@
+INSERT INTO productos (nombre, precio, create_at) VALUES('acer', 100, '07/05/2020');
