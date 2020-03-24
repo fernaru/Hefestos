@@ -2,7 +2,8 @@ package com.co.kerbero.producto.models.service;
 
 import java.util.List;
 
-import com.co.kerbero.producto.models.entity.Producto;
+import com.co.kerbero.models.entity.Producto;
+
 
 public interface IProductoService {
 

@@ -9,7 +9,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 import com.co.kerbero.producto.exception.BusinessException;
 import com.co.kerbero.producto.models.dao.ProductoDao;
-import com.co.kerbero.producto.models.entity.Producto;
+import com.co.kerbero.models.entity.Producto;
 import com.co.kerbero.producto.models.service.IProductoService;
 
 @Service
